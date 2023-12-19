@@ -1,3 +1,3 @@
 # favorite food
 
-Gyudon
+curry rice
